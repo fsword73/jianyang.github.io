@@ -1,12 +1,10 @@
 [editor on GitHub](https://github.com/fsword73/jianyang.github.io/edit/master/index.md)
 
 ## Performance on Deep Learning Lirbaries 
-  ### Batched Least Squares of Tall Skinny Matrices on GPU (https://www.nag.com/doc/techrep/pdf/tr1_17.pdf) 
-    Clamied 20x Faster than NV batched GEMM
-  ### CUTLASS: Fast Linear Algebra in CUDA C++(https://devblogs.nvidia.com/parallelforall/cutlass-linear-algebra-cuda/)
-    DGEMM/SGEMM/HGEMM/IGEMM
- ### Block-Sparse GPU Kernels(https://blog.openai.com/block-sparse-gpu-kernels/) 
-    30X Speed-up on LSTM 
+  ### Batched Least Squares of Tall Skinny Matrices on GPU (https://www.nag.com/doc/techrep/pdf/tr1_17.pdf) : Clamied 20x Faster than NV batched GEMM    
+  ### CUTLASS: Fast Linear Algebra in CUDA C++(https://devblogs.nvidia.com/parallelforall/cutlass-linear-algebra-cuda/): DGEMM/SGEMM/HGEMM/IGEMM    
+  ### Block-Sparse GPU Kernels(https://blog.openai.com/block-sparse-gpu-kernels/) :   30X Speed-up on LSTM 
+  
 
 ## CNN Papers 
 
