@@ -1,8 +1,12 @@
 [editor on GitHub](https://github.com/fsword73/jianyang.github.io/edit/master/index.md)
 
-## Performacne on Deep Learning Lirbaries 
-  ###Batched Least Squares of Tall Skinny Matrices on GPU (https://www.nag.com/doc/techrep/pdf/tr1_17.pdf) 
+## Performance on Deep Learning Lirbaries 
+  ### Batched Least Squares of Tall Skinny Matrices on GPU (https://www.nag.com/doc/techrep/pdf/tr1_17.pdf) 
     Clamied 20x Faster than NV batched GEMM
+  ### CUTLASS: Fast Linear Algebra in CUDA C++(https://devblogs.nvidia.com/parallelforall/cutlass-linear-algebra-cuda/)
+    DGEMM/SGEMM/HGEMM/IGEMM
+ ### Block-Sparse GPU Kernels(https://blog.openai.com/block-sparse-gpu-kernels/) 
+    30X Speed-up on LSTM 
 
 ## CNN Papers 
 
@@ -14,16 +18,25 @@
 
 ## Compilers 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fsword73/jianyang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
