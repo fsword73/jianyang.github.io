@@ -1,6 +1,11 @@
+[editor on GitHub]
+
+## Performance Paper on Deep learning Performacne 
+Batched Least Squares of Tall Skinny Matrices on GPU (https://www.nag.com/doc/techrep/pdf/tr1_17.pdf)
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fsword73/jianyang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the (https://github.com/fsword73/jianyang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
