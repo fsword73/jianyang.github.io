@@ -10,7 +10,8 @@
 ## CNN Papers 
 
 ## RNN Papers
-[循环神经网络教程第二部分-用python，numpy，theano实现一个RNN(https://zhuanlan.zhihu.com/p/22289383)
+  [零基础入门深度学习(1-7)](https://www.zybuluo.com/hanbingtao/note/433855)
+  [循环神经网络教程第二部分-用python，numpy，theano实现一个RNN](https://zhuanlan.zhihu.com/p/22289383)
 ## Framwroks
 
 ## Apps
