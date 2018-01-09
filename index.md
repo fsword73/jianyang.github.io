@@ -8,30 +8,18 @@
   
 
 ## CNN Papers 
-
+###  [Wavenet](https://arxiv.org/pdf/1609.03499.pdf) 
 ## RNN Papers
   [零基础入门深度学习(1-7)](https://www.zybuluo.com/hanbingtao/note/433855)
   [循环神经网络教程第二部分-用python，numpy，theano实现一个RNN](https://zhuanlan.zhihu.com/p/22289383)
 ## Framwroks
+### ONNX
+### TVM
 
 ## Apps
-
+### [FaceID3](https://arxiv.org/abs/1502.00873)
+### [FaceID](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 ## Compilers 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
