@@ -19,9 +19,12 @@
 ### TVM
 ### [XLA](https://autodiff-workshop.github.io/slides/JeffDean.pdf)
      [SourceCode](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler)
-### A Study of Persistent Threads Style GPU Programming for GPGPU Workloads(http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
+### [A Study of Persistent Threads Style GPU Programming for GPGPU Workloads](http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
 ### Neural Netowrk Model Zoo
   [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
+  [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow.
+  [TensorFlow Slim Models](https://github.com/tensorflow/models/blob/master/slim/README.md) - Another collection of TensorFlow Models.
+  [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 ### Apps
 ### [FaceID3](https://arxiv.org/abs/1502.00873)
 ### [FaceID](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
@@ -58,3 +61,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+303132### Markdown33Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for34```markdown35Syntax highlighted code block3637# Header 138## Header 239### Header 34041- Bulleted42- List43441. Numbered452. List4647**Bold** and _Italic_ and `Code` text4849[Link](url) and ![Image](src)50```5152For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).5354### Jekyll Themes5556Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fsword73/jianyang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.5758### Support or Contact5960Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+303132### Markdown33Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for34```markdown35Syntax highlighted code block3637# Header 138## Header 239### Header 34041- Bulleted42- List43441. Numbered452. List4647**Bold** and _Italic_ and `Code` text4849[Link](url) and ![Image](src)50```5152For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).5354### Jekyll Themes5556Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fsword73/jianyang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.5758### Support or Contact5960Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
