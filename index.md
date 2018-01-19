@@ -15,7 +15,8 @@
 ## Framwroks
 ### ONNX
 ### TVM
-### XLA 
+### XLA(https://autodiff-workshop.github.io/slides/JeffDean.pdf)
+     SourceCode(https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler)
 ### A Study of Persistent Threads Style GPU Programming for GPGPU Workloads(http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
 
 ## Apps
