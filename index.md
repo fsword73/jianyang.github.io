@@ -20,8 +20,9 @@
 ### XLA(https://autodiff-workshop.github.io/slides/JeffDean.pdf)
      SourceCode(https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler)
 ### A Study of Persistent Threads Style GPU Programming for GPGPU Workloads(http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
-
-## Apps
+### Neural Netowrk Model Zoo
+  [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
+### Apps
 ### [FaceID3](https://arxiv.org/abs/1502.00873)
 ### [FaceID](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 ## Compilers 
