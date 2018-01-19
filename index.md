@@ -1,33 +1,33 @@
 [editor on GitHub](https://github.com/fsword73/jianyang.github.io/edit/master/index.md)
 
 ## Performance on Deep Learning Lirbaries 
-### [Batched Least Squares of Tall Skinny Matrices on GPU ](https://www.nag.com/doc/techrep/pdf/tr1_17.pdf) : Clamied 20x Faster than NV batched GEMM
-### [CUTLASS: Fast Linear Algebra in CUDA C++](https://devblogs.nvidia.com/parallelforall/cutlass-linear-algebra-cuda/): DGEMM/SGEMM/HGEMM/IGEMM
-### [Block-Sparse GPU Kernels](https://blog.openai.com/block-sparse-gpu-kernels/) :   30X Speed-up on LSTM 
+- [Batched Least Squares of Tall Skinny Matrices on GPU ](https://www.nag.com/doc/techrep/pdf/tr1_17.pdf) : Clamied 20x Faster than NV batched GEMM
+- [CUTLASS: Fast Linear Algebra in CUDA C++](https://devblogs.nvidia.com/parallelforall/cutlass-linear-algebra-cuda/): DGEMM/SGEMM/HGEMM/IGEMM
+- [Block-Sparse GPU Kernels](https://blog.openai.com/block-sparse-gpu-kernels/) :   30X Speed-up on LSTM 
   
   
 
 ## CNN Papers 
-###  [Wavenet](https://arxiv.org/pdf/1609.03499.pdf) 
+-  [Wavenet](https://arxiv.org/pdf/1609.03499.pdf) 
 ## RNN Papers
   [零基础入门深度学习(1-7)](https://www.zybuluo.com/hanbingtao/note/433855)
   [循环神经网络教程第二部分-用python，numpy，theano实现一个RNN](https://zhuanlan.zhihu.com/p/22289383)
-## Framwroks
-### [ONNX](https://github.com/onnx/onnx/blob/master/docs/IR.md)
-### CoreML
+- Framwroks
+- [ONNX](https://github.com/onnx/onnx/blob/master/docs/IR.md)
+- CoreML
   [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
-### TVM
-### [XLA](https://autodiff-workshop.github.io/slides/JeffDean.pdf)
+- TVM
+- [XLA](https://autodiff-workshop.github.io/slides/JeffDean.pdf)
      [SourceCode](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler)
-### [A Study of Persistent Threads Style GPU Programming for GPGPU Workloads](http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
-### Neural Netowrk Model Zoo
-  [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
-  [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow.
-  [TensorFlow Slim Models](https://github.com/tensorflow/models/blob/master/slim/README.md) - Another collection of TensorFlow Models.
-  [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
-### Apps
-### [FaceID3](https://arxiv.org/abs/1502.00873)
-### [FaceID](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
+- [A Study of Persistent Threads Style GPU Programming for GPGPU Workloads](http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
+## Neural Netowrk Model Zoo
+-  [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
+-  [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow.
+-  [TensorFlow Slim Models](https://github.com/tensorflow/models/blob/master/slim/README.md) - Another collection of TensorFlow Models.
+-  [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
+## Apps
+- [FaceID3](https://arxiv.org/abs/1502.00873)
+- [FaceID](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 ## Compilers 
 
 
