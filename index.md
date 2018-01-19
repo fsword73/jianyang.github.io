@@ -10,9 +10,9 @@
 ## CNN Papers 
 -  [Wavenet](https://arxiv.org/pdf/1609.03499.pdf) 
 ## RNN Papers
-  [零基础入门深度学习(1-7)](https://www.zybuluo.com/hanbingtao/note/433855)
-  [循环神经网络教程第二部分-用python，numpy，theano实现一个RNN](https://zhuanlan.zhihu.com/p/22289383)
-- Framwroks
+-  [零基础入门深度学习(1-7)](https://www.zybuluo.com/hanbingtao/note/433855)
+-  [循环神经网络教程第二部分-用python，numpy，theano实现一个RNN](https://zhuanlan.zhihu.com/p/22289383)
+## Framwroks
 - [ONNX](https://github.com/onnx/onnx/blob/master/docs/IR.md)
 - CoreML
   [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
