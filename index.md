@@ -4,7 +4,7 @@
 - [Batched Least Squares of Tall Skinny Matrices on GPU ](https://www.nag.com/doc/techrep/pdf/tr1_17.pdf) : Clamied 20x Faster than NV batched GEMM
 - [CUTLASS: Fast Linear Algebra in CUDA C++](https://devblogs.nvidia.com/parallelforall/cutlass-linear-algebra-cuda/): DGEMM/SGEMM/HGEMM/IGEMM
 - [Block-Sparse GPU Kernels](https://blog.openai.com/block-sparse-gpu-kernels/) :   30X Speed-up on LSTM 
-  
+- [8 Bits GEMM by Google](https://github.com/google/gemmlowp)
   
 
 ## CNN Papers 
