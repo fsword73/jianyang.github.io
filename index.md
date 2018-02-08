@@ -26,6 +26,8 @@
 -  [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow.
 -  [TensorFlow Slim Models](https://github.com/tensorflow/models/blob/master/slim/README.md) - Another collection of TensorFlow Models.
 -  [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
+-  [awesome CoreML model Zoo](https://github.com/likedan/Awesome-CoreML-Models)
+-  [CoreML Model Zoo](https://github.com/cocoa-ai/ModelZoo)
 ## Apps
 - [FaceID3](https://arxiv.org/abs/1502.00873)
 - [FaceID](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
