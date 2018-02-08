@@ -30,7 +30,7 @@
 -  [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 -  [awesome CoreML model Zoo](https://github.com/likedan/Awesome-CoreML-Models)
 -  [CoreML Model Zoo](https://github.com/cocoa-ai/ModelZoo)
--  [Caffe2 Model Zoo](-gpu-kernels/) :   30X Speed-up on LSTM - [8 Bits GEMM by Google](https://github.com/google/gemmlowp)
+-  [Caffe2 Model Zoo](https://github.com/caffe2/caffe2/wiki/Model-Zoo)   
   
 
 ## Apps
