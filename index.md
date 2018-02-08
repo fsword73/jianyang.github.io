@@ -12,13 +12,14 @@
 ## RNN Papers
 -  [零基础入门深度学习(1-7)](https://www.zybuluo.com/hanbingtao/note/433855)
 -  [循环神经网络教程第二部分-用python，numpy，theano实现一个RNN](https://zhuanlan.zhihu.com/p/22289383)
-## Framwroks
+## Framworks
 - [ONNX](https://github.com/onnx/onnx/blob/master/docs/IR.md)
 - [CoreML](https://developer.apple.com/machine-learning/)
   [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models)
 - TVM
 - [XLA](https://autodiff-workshop.github.io/slides/JeffDean.pdf)
      [SourceCode](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler)
+- [MMDNN:A comprehensive, cross-framework solution to convert, visualize and diagnosis deep neural network models](https://github.com/Microsoft/MMdnn)
 - [A Study of Persistent Threads Style GPU Programming for GPGPU Workloads](http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
 ## Neural Netowrk Model Zoo
 -  [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
