@@ -21,6 +21,8 @@
      [SourceCode](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler)
 - [MMDNN:A comprehensive, cross-framework solution to convert, visualize and diagnosis deep neural network models](https://github.com/Microsoft/MMdnn)
 - [A Study of Persistent Threads Style GPU Programming for GPGPU Workloads](http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
+- [Caffe2 Operators](https://caffe2.ai/docs/operators-catalogue)
+
 ## Neural Netowrk Model Zoo
 -  [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
 -  [TensorFlow Models](https://github.com/tensorflow/models) - Models for TensorFlow.
@@ -28,6 +30,9 @@
 -  [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 -  [awesome CoreML model Zoo](https://github.com/likedan/Awesome-CoreML-Models)
 -  [CoreML Model Zoo](https://github.com/cocoa-ai/ModelZoo)
+-  [Caffe2 Model Zoo](-gpu-kernels/) :   30X Speed-up on LSTM - [8 Bits GEMM by Google](https://github.com/google/gemmlowp)
+  
+
 ## Apps
 - [FaceID3](https://arxiv.org/abs/1502.00873)
 - [FaceID](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
