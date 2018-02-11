@@ -39,6 +39,9 @@
 - [Facenet](https://github.com/davidsandberg/facenet)
 ## Compilers 
 
+## Meta Learning / Learn to Learn
+- [Papers:Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning](https://github.com/songrotek/Meta-Learning-Papers)
+- [Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning](https://arxiv.org/abs/1706.09529)
 
 ## Good Researcher BLOG
     [Lots of Basic Algorithm on Comoute Vision: Zhang Lino](http://blog.csdn.net/linolzhang/)
