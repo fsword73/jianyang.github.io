@@ -6,6 +6,7 @@
 - [Block-Sparse GPU Kernels](https://blog.openai.com/block-sparse-gpu-kernels/) :   30X Speed-up on LSTM 
 - [8 Bits GEMM by Google](https://github.com/google/gemmlowp)
 - [Tensor Comprehensions: Framework-Agnostic High-Performance Machine  Learning Abstractions](https://arxiv.org/abs/1802.04730)
+- [An Efficient Evolutionary Algorithm for Solving Incrementally Structured Problems](http://groups.csail.mit.edu/commit/papers/2011/ansel-gecco11-pbautotuner.pdf)
   
 
 ## CNN Papers 
