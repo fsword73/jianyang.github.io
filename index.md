@@ -25,6 +25,7 @@
 - [MMDNN:A comprehensive, cross-framework solution to convert, visualize and diagnosis deep neural network models](https://github.com/Microsoft/MMdnn)
 - [A Study of Persistent Threads Style GPU Programming for GPGPU Workloads](http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1089)
 - [Caffe2 Operators](https://caffe2.ai/docs/operators-catalogue)
+- [GPU INFERENCEIN THE DATACENTER](http://on-demand.gputechconf.com/gtcdc/2017/presentation/dc7190-drew-farris-exploring-gpu-inference-in-the-data-center.pdf)
 
 ## Neural Netowrk Model Zoo
 -  [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
