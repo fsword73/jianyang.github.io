@@ -8,7 +8,7 @@
 - [Tensor Comprehensions: Framework-Agnostic High-Performance Machine  Learning Abstractions](https://arxiv.org/abs/1802.04730)
 - [An Efficient Evolutionary Algorithm for Solving Incrementally Structured Problems](http://groups.csail.mit.edu/commit/papers/2011/ansel-gecco11-pbautotuner.pdf)
 - [The Tensor Algebra Library](https://github.com/tensor-compiler/taco)
-  
+- [GLOO-barrier, broadcast, and allreduce](https://github.com/facebookincubator/gloo)  
 
 ## CNN Papers 
 -  [Wavenet](https://arxiv.org/pdf/1609.03499.pdf) 
