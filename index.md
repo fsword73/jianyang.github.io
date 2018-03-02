@@ -9,6 +9,9 @@
 - [An Efficient Evolutionary Algorithm for Solving Incrementally Structured Problems](http://groups.csail.mit.edu/commit/papers/2011/ansel-gecco11-pbautotuner.pdf)
 - [The Tensor Algebra Library](https://github.com/tensor-compiler/taco)
 - [GLOO-barrier, broadcast, and allreduce](https://github.com/facebookincubator/gloo)  
+- [CUB NV parallel algorithms- radix sort, prefix sum, histogram,](https://github.com/NVlabs/cub)
+- [Eigen]
+- [Thrust]
 
 ## CNN Papers 
 -  [Wavenet](https://arxiv.org/pdf/1609.03499.pdf) 
