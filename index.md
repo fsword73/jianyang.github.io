@@ -7,6 +7,7 @@
 - [8 Bits GEMM by Google](https://github.com/google/gemmlowp)
 - [Tensor Comprehensions: Framework-Agnostic High-Performance Machine  Learning Abstractions](https://arxiv.org/abs/1802.04730)
 - [An Efficient Evolutionary Algorithm for Solving Incrementally Structured Problems](http://groups.csail.mit.edu/commit/papers/2011/ansel-gecco11-pbautotuner.pdf)
+- [The Tensor Algebra Library](https://github.com/tensor-compiler/taco)
   
 
 ## CNN Papers 
