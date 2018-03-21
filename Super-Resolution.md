@@ -4,3 +4,4 @@
 # [EDSR Authors'  Torch](https://github.com/LimBee/NTIRE2017)
 # [EDSR by Pytorch](https://github.com/thstkdgus35/EDSR-PyTorch)
 # [DIV2K dataset ](https://github.com/ychfan/sr_ntire2017)
+# [Cnhinese Text Dataset](https://ctwdataset.github.io/)
