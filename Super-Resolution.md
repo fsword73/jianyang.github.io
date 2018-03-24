@@ -13,3 +13,5 @@
 # [Deep Video DeBlur](https://github.com/shuochsu/DeepVideoDeblurring)
 # [Small Python to Matlab COmpiler](https://github.com/victorlei/smop)
 
+
+#[torch7 layers](https://github.com/prisma-ai/torch2coreml/)
