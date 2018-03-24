@@ -7,3 +7,6 @@
 # [Cnhinese Text Dataset](https://ctwdataset.github.io/)
 # [Raw Image Dataset](http://mmlab.science.unitn.it/RAISE/)
 # [许多篇图像处理深度学习的总结](https://antkillerfarm.github.io/dl/2017/10/22/Deep_Learning_22.html)
+# [DeepDeblur](https://github.com/SeungjunNah/DeepDeblur_release)
+# [Deep Demosaicnet]( https://github.com/mgharbi/demosaicnet)
+# [Deep DeblueGAN](https://github.com/KupynOrest/DeblurGAN)
