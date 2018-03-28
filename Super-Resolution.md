@@ -15,3 +15,5 @@
 
 
 #[torch7 layers](https://github.com/prisma-ai/torch2coreml/)
+
+#[Denosing](https://github.com/cszn/DnCNN)
