@@ -14,6 +14,5 @@
 # [Small Python to Matlab COmpiler](https://github.com/victorlei/smop)
 
 
-#[torch7 layers](https://github.com/prisma-ai/torch2coreml/)
-
-#[Denosing](https://github.com/cszn/DnCNN)
+# [torch7 layers](https://github.com/prisma-ai/torch2coreml/)
+# [Denosing](https://github.com/cszn/DnCNN)
