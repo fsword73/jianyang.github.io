@@ -16,3 +16,5 @@
 
 # [torch7 layers](https://github.com/prisma-ai/torch2coreml/)
 # [Denosing](https://github.com/cszn/DnCNN)
+
+# [Learning Blind Demotion Blur](https://github.com/cgtuebingen/learning-blind-motion-deblurring)
