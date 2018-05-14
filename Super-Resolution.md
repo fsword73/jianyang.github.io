@@ -18,3 +18,4 @@
 # [Denosing](https://github.com/cszn/DnCNN)
 
 # [Learning Blind Demotion Blur](https://github.com/cgtuebingen/learning-blind-motion-deblurring)
+# [Interactive Reconstruction of Monte Carlo Image Sequences using a Recurrent Denoising Autoencoder ]（http://research.nvidia.com/sites/default/files/publications/dnn_denoise_author.pdf）
