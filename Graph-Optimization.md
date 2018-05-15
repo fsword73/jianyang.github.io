@@ -7,5 +7,6 @@
 # [DLVM: Modern Compiler Infrastructure for Deep Learning Systems](http://dlvm.org/)
 # [Tensor Comprehensions](https://github.com/facebookresearch/TensorComprehensions)
 # [The Tensor Algebra Compiler (taco) computes tensor expressions on sparse and dense tensors](http://tensor-compiler.org/)
-# [https://github.com/rbaghdadi/tiramisu/](https://github.com/rbaghdadi/tiramisu/)
+# [Tiramisu: A Code Optimization Framework](https://github.com/rbaghdadi/tiramisu/)
+
 ## [Tiramisu: A Code Optimization Framework for High Performance Systems](https://arxiv.org/pdf/1804.10694.pdf)
