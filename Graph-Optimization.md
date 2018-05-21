@@ -8,5 +8,6 @@
 # [Tensor Comprehensions](https://github.com/facebookresearch/TensorComprehensions)
 # [The Tensor Algebra Compiler (taco) computes tensor expressions on sparse and dense tensors](http://tensor-compiler.org/)
 # [Tiramisu: A Code Optimization Framework](https://github.com/rbaghdadi/tiramisu/)
-
-## [Tiramisu: A Code Optimization Framework for High Performance Systems](https://arxiv.org/pdf/1804.10694.pdf)
+### [Tiramisu: A Code Optimization Framework for High Performance Systems](https://arxiv.org/pdf/1804.10694.pdf)
+# [PlaidML:A platform for making deep learning work everywhere](https://github.com/plaidml/plaidml)
+####  [Tensor Compilers: Comparing PlaidML, Tensor Comprehensions, and TVM](http://vertex.ai/blog/compiler-comparison)
