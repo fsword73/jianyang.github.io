@@ -12,7 +12,7 @@
 # [Deep DeblueGAN](https://github.com/KupynOrest/DeblurGAN)
 # [Deep Video DeBlur](https://github.com/shuochsu/DeepVideoDeblurring)
 # [Small Python to Matlab COmpiler](https://github.com/victorlei/smop)
-# [FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising］(https://github.com/cszn/FFDNet)
+# [FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising](https://github.com/cszn/FFDNet)
 ### 唯一可以商业化应用的代码，可以针对0-75级别的Denoise. 
 
 
