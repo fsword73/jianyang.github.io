@@ -25,3 +25,5 @@
 # [DeepISP: Learning End-to-End Image Processing Pipeline](https://arxiv.org/pdf/1801.06724.pdf)
 
 # [Learning to See in the Dark](https://arxiv.org/pdf/1805.01934.pdf)
+
+#[FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising](https://github.com/cszn/FFDNet)
