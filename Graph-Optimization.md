@@ -11,3 +11,5 @@
 ### [Tiramisu: A Code Optimization Framework for High Performance Systems](https://arxiv.org/pdf/1804.10694.pdf)
 # [PlaidML:A platform for making deep learning work everywhere](https://github.com/plaidml/plaidml)
 ####  [Tensor Compilers: Comparing PlaidML, Tensor Comprehensions, and TVM](http://vertex.ai/blog/compiler-comparison)
+# [Diesel: DSL for linear algebra and neural net computations on GPUs]
+# [FGen: High-Performance Convolution Generator](https://astojanov.github.io/projects/fgen/)
