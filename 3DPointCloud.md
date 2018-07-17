@@ -1,9 +1,7 @@
-[editor on GitHub](https://github.com/fsword73/jianyang.github.io/edit/master/3DSpline.md)
+[editor on GitHub](https://github.com/fsword73/jianyang.github.io/edit/master/3DPointCloud.md)
 
-# [SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels]
-# [Soccer on Your Tabletop]
-# [Single Image Dehazing via Conditional Generative Adversarial Network]
-# [Single Image Reflection Separation with Perceptual Losses]
+# [SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance
+Segmentation]
 
 
 
