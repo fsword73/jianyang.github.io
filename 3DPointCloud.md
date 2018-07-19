@@ -3,7 +3,8 @@
 # [SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance
 Segmentation]
 # [Surface Networks]
-
+# [PU-Net: Point Cloud Upsampling Network]
+# [PointNet++]
 
 
 # Applications:
