@@ -7,4 +7,5 @@ Segmentation]
 # [PointNet++]
 # [Monocular 3D Pose and Shape Estimation of Multiple People in Natural Scenes]
 # Mesoscopic Facial Geometry Inference Using Deep Neural Networks
+# Learning to Estimate 3D Human Pose and Shape from a Single Color Image
 # Applications:
