@@ -10,3 +10,5 @@ Segmentation]
 # Learning to Estimate 3D Human Pose and Shape from a Single Color Image
 # Applications:
 #　　LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image
+＃　ShapeNet
+＃　Pascal3D+
