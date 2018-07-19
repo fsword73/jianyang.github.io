@@ -4,3 +4,4 @@
 
 # SSD
 # Yolo
+# MegDet: A Large Mini-Batch Object Detector
