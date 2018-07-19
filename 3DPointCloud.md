@@ -5,6 +5,6 @@ Segmentation]
 # [Surface Networks]
 # [PU-Net: Point Cloud Upsampling Network]
 # [PointNet++]
-
+# [Monocular 3D Pose and Shape Estimation of Multiple People in Natural Scenes]
 
 # Applications:
