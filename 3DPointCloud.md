@@ -15,3 +15,4 @@ Segmentation]
 # 3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare
 # 4D Human Body Correspondences from Panoramic Depth Maps
 # 3D Pose Estimation and 3D Model Retrieval for Objects in the Wild
+# Im2Struct: Recovering 3D Shape Structure from a Single RGB Image
