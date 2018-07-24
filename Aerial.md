@@ -2,3 +2,4 @@
 
 # [Functional Map of the World]
 # [Geometry-Aware Learning of Maps for Camera Localization]
+# [Geometry-Aware Scene Text Detection with Instance Transformation Network]
