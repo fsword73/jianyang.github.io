@@ -2,3 +2,5 @@
 
 # [ImageMaick formats](http://www.imagemagick.org/script/formats.php)
   Command Line: 
+  
+# [Image Quality Assessment,IQA ， No-Reference](https://baike.baidu.com/item/IQA/19453034)
