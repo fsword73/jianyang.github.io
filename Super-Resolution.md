@@ -34,3 +34,6 @@
 ＃　A High-Quality Denoising Dataset for Smartphone Cameras
 
 # [Face Super-Resolution](https://github.com/tyshiwo/FSRNet)
+
+# [Kernel-predicting convolutional
+networks for denoising Monte Carlo renderings.](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/)
