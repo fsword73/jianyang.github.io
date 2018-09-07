@@ -37,3 +37,5 @@
 
 # [Kernel-predicting convolutional
 networks for denoising Monte Carlo renderings.](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/)
+
+#[Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
