@@ -40,3 +40,4 @@ networks for denoising Monte Carlo renderings.](http://cvc.ucsb.edu/graphics/Pap
 
 #[Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
 #[Decouple Learning for Parameterized Image Operators]
+#[Robust Optical Flow in Rainy Scenes]
