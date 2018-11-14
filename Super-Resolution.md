@@ -38,6 +38,9 @@
 # [Kernel-predicting convolutional
 networks for denoising Monte Carlo renderings.](http://cvc.ucsb.edu/graphics/Papers/SIGGRAPH2017_KPCN/)
 
-#[Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
-#[Decouple Learning for Parameterized Image Operators]
-#[Robust Optical Flow in Rainy Scenes]
+# [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
+# [Decouple Learning for Parameterized Image Operators]
+# [Robust Optical Flow in Rainy Scenes]
+
+# [MRI:Image reconstruction by domain transform manifold learning]（https://arxiv.org/abs/1704.08841）  [source code](https://github.com/tetianadadakova/MRI-CNN)
+ 
