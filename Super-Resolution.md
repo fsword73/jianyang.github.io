@@ -43,4 +43,8 @@ networks for denoising Monte Carlo renderings.](http://cvc.ucsb.edu/graphics/Pap
 # [Robust Optical Flow in Rainy Scenes]
 
 # [MRI:Image reconstruction by domain transform manifold learning](https://arxiv.org/abs/1704.08841)  [source code](https://github.com/tetianadadakova/MRI-CNN)
- 
+
+# [Convolutional Recurrent Neural Networks for Dynamic MR Image Reconstruction](https://arxiv.org/abs/1712.01751)
+# [A Theoretically Guaranteed Deep Optimization Framework for Robust Compressive Sensing MRI](https://arxiv.org/abs/1811.03782)
+# [Ultrafast Magnetic Resonance Imaging](https://arxiv.org/abs/1809.06428)
+# [Compressed Sensing Plus Motion (CS+M): A New Perspective for Improving Undersampled MR Image Reconstruction](https://arxiv.org/abs/1810.10828)
