@@ -49,4 +49,5 @@ networks for denoising Monte Carlo renderings.](http://cvc.ucsb.edu/graphics/Pap
 # [Ultrafast Magnetic Resonance Imaging](https://arxiv.org/abs/1809.06428)
 # [Compressed Sensing Plus Motion (CS+M): A New Perspective for Improving Undersampled MR Image Reconstruction](https://arxiv.org/abs/1810.10828)
 # [Complex Fully Convolutional Neural Networks for MR Image Reconstruction](https://arxiv.org/abs/1807.03343)
+# [A Hybrid Frequency-domain/Image-domain Deep Network for Magnetic Resonance Image Reconstruction]（https://github.com/rmsouza01/Hybrid-CS-Model-MRI）  [paper](https://arxiv.org/abs/1810.12473)
 
