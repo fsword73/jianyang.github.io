@@ -15,4 +15,4 @@
 # [FGen: High-Performance Convolution Generator](https://astojanov.github.io/projects/fgen/)
 # [The streaming rollout of deep networks - towards fully model-parallel execution](https://arxiv.org/abs/1806.04965) [sourcode](https://github.com/boschresearch/statestream)
 
-#[TVM](https://github.com/dmlc/tvm)
+# [TVM](https://github.com/dmlc/tvm) [paper](http://link.zhihu.com/?target=https%3A//arxiv.org/abs/1805.08166)
