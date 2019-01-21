@@ -6,4 +6,4 @@
 # Yolo
 # MegDet: A Large Mini-Batch Object Detector
 # [CornerNet: Detecting Objects as Paired Keypoints](https://github.com/makalo/CornerNet)
-# [Single-Shot Refinement Neural Network for Object Detection]（https://github.com/sfzhang15/RefineDet）
+# [Single-Shot Refinement Neural Network for Object Detection](https://github.com/sfzhang15/RefineDet)
