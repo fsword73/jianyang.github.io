@@ -13,3 +13,4 @@
 ####  [Tensor Compilers: Comparing PlaidML, Tensor Comprehensions, and TVM](http://vertex.ai/blog/compiler-comparison)
 # [Diesel: DSL for linear algebra and neural net computations on GPUs]
 # [FGen: High-Performance Convolution Generator](https://astojanov.github.io/projects/fgen/)
+# [The streaming rollout of deep networks - towards fully model-parallel execution](https://arxiv.org/abs/1806.04965) [sourcode](https://github.com/boschresearch/statestream)
