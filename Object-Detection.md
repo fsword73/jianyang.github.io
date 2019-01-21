@@ -5,3 +5,4 @@
 # SSD
 # Yolo
 # MegDet: A Large Mini-Batch Object Detector
+# [CornerNet: Detecting Objects as Paired Keypoints](https://github.com/makalo/CornerNet)
