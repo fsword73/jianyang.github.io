@@ -17,4 +17,5 @@ Segmentation]
 # 3D Pose Estimation and 3D Model Retrieval for Objects in the Wild
 # Im2Struct: Recovering 3D Shape Structure from a Single RGB Image
 # [Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
-# [RenderNet: A deep convolutional network for differentiable rendering from 3D shapes](https://arxiv.org/abs/1806.06575)
+# [RenderNet: A deep convolutional network for differentiable rendering from 3D shapes](https://arxiv.org/abs/1806.06575) [source code](https://github.com/thunguyenphuoc/RenderNet)
+
