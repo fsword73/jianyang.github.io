@@ -19,3 +19,4 @@ Segmentation]
 # [Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
 # [RenderNet: A deep convolutional network for differentiable rendering from 3D shapes](https://arxiv.org/abs/1806.06575) [source code](https://github.com/thunguyenphuoc/RenderNet)
 
+# [Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images]
