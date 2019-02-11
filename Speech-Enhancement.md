@@ -16,5 +16,5 @@
 # [Multi-talker Speech Separation with Utterance-level Permutation Invariant Training of Deep Recurrent Neural Networks](https://arxiv.org/pdf/1703.06284.pdf)
 # Complex Ratio Masking for Monaural Speech Separation
 # [VoxCeleb2: Deep Speaker Recognition](https://github.com/HarryVolek/PyTorch_Speaker_Verification)
-# [VOICEFILTER: TARGETED VOICE SEPARATION BY SPEAKER-CONDITIONED SPECTROGRAM MASKING] 
+# [VOICEFILTER: TARGETED VOICE SEPARATION BY SPEAKER-CONDITIONED SPECTROGRAM MASKING](https://arxiv.org/abs/1810.04826)
 
