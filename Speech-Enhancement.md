@@ -20,5 +20,6 @@
 
 # Audio Super-Resolution
 ## [Audio Super Resolution Using Neural Networks](https://github.com/kuleshov/audio-super-res)
+## [Audio Super Resolution][https://github.com/aksh98/Audio_super_Resolution]
 ## [A Wavenet For Speech Denoising](https://github.com/drethage/speech-denoising-wavenet)
 ## [Source-Denoising-Pix2Pix-cGAN](https://github.com/ghunkins/Voice-Denoising-AN)
