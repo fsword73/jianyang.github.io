@@ -9,7 +9,17 @@
 ## [lattice QCD](https://sourceforge.net/projects/lattice-qcd)
 ## [hoomd-blue](https://github.com/harperic/hoomd-blue)
 ## [OpenFoam](https://openfoam.com/code/repositories.php)
-
+## AMBER
+## ANSYS(Fluent)
+## VASP
+## Simulia Abaqus  (Dasssault Systems)
+## WRF(NCAR)
+## LS-Dana
+## RTM
+## Chroma
+## Quantum Espresso
+## Nastran
+# CESM
 
 # Math Libs
 ## [State-of-The-ArtSparseDirectSolvers](https://arxiv.org/pdf/1907.05309.pdf)
