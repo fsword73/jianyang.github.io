@@ -23,9 +23,11 @@
 
 # Math Libs
 ## [State-of-The-ArtSparseDirectSolvers](https://arxiv.org/pdf/1907.05309.pdf)
+NUMPS,  SPOOLES,  MA57, 
+## [PARDISO](https://www.pardiso-project.org/)  [manual](https://pardiso-project.org/manual/manual.pdf)
+## [线性方程组的解：直接和迭代求解器](http://cn.comsol.com/blogs/solutions-linear-systems-equations-direct-iterative-solvers/)
 
-
-Study on Ecosystem
-https://pdfs.semanticscholar.org/9e35/fa69035fe67592d064d2fc9864d48cfd6301.pdf
-http://on-demand.gputechconf.com/gtc/2016/presentation/s6846_william_kramer-national-center-for-supercomputing.pdf
-https://www.csc.fi/documents/10180/339602/CSC_statistics_2017.pdf
+#Study on Ecosystem
+##  https://pdfs.semanticscholar.org/9e35/fa69035fe67592d064d2fc9864d48cfd6301.pdf
+## http://on-demand.gputechconf.com/gtc/2016/presentation/s6846_william_kramer-national-center-for-supercomputing.pdf
+## https://www.csc.fi/documents/10180/339602/CSC_statistics_2017.pdf
