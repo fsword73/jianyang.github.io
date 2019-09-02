@@ -31,3 +31,12 @@ NUMPS,  SPOOLES,  MA57,
 ##  https://pdfs.semanticscholar.org/9e35/fa69035fe67592d064d2fc9864d48cfd6301.pdf
 ## http://on-demand.gputechconf.com/gtc/2016/presentation/s6846_william_kramer-national-center-for-supercomputing.pdf
 ## https://www.csc.fi/documents/10180/339602/CSC_statistics_2017.pdf
+
+
+
+•	GPU-Accelerated Sparse LU Factorization for Circuit Simulation with Performance Modeling
+•	Parallel power grid analysis using preconditioned GMRES solver on CPU-GPU platforms
+•	Dynamic Clustering and GPU Based Parallel Processing Approach to Accelerate Circuit Simulation
+•	A Distributed CPU-GPU Sparse Direct Solver
+•	A communication-avoiding 3D LU factorization algorithm for sparse matrices
+•	Scheduling a Parallel Sparse Direct Solver to Multiple GPUs
