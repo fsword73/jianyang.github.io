@@ -40,3 +40,5 @@ NUMPS,  SPOOLES,  MA57,
 •	A Distributed CPU-GPU Sparse Direct Solver
 •	A communication-avoiding 3D LU factorization algorithm for sparse matrices
 •	Scheduling a Parallel Sparse Direct Solver to Multiple GPUs
+•	GLU3.0: Fast GPU-based Parallel Sparse LU Factorization for Circuit Simulation
+
