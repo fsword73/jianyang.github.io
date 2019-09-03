@@ -47,4 +47,5 @@ NUMPS,  SPOOLES,  MA57,
 ##	Scheduling a Parallel Sparse Direct Solver to Multiple GPUs
 ##	GLU3.0: Fast GPU-based Parallel Sparse LU Factorization for Circuit Simulation
 ##  [GPU编程之进击的优化系列三--基于GPU的稀疏直接求解器](https://blog.csdn.net/weixin_34318326/article/details/89832629)
-
+## [NICSLU----Parallel Sparse Solver for Circuit Simulation](https://github.com/chenxm1986/nicslu)
+## [SuiteSparse UMFPACK](https://github.com/PetterS/SuiteSparse/tree/master/UMFPACK)
