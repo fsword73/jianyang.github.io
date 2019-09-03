@@ -38,7 +38,7 @@ NUMPS,  SPOOLES,  MA57,
 ## [SPICE on GPU](http://on-demand.gputechconf.com/gtc/2013/presentations/S3364-SPICE-Acceleration-on-GPUs.pdf)
 ## [NGSPICE: an Open Platform for Modeling and Simulation]()
 ## http://ngspice.sourceforge.net/cuspice/CUSPICE_User_Guide.pdf
-
+## https://sourceforge.net/p/ngspice/discussion/127605/thread/74b46976/
 ##	GPU-Accelerated Sparse LU Factorization for Circuit Simulation with Performance Modeling
 ##	Parallel power grid analysis using preconditioned GMRES solver on CPU-GPU platforms
 ##	Dynamic Clustering and GPU Based Parallel Processing Approach to Accelerate Circuit Simulation
