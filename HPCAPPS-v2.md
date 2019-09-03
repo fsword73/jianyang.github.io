@@ -32,7 +32,7 @@ NUMPS,  SPOOLES,  MA57,
 ## http://on-demand.gputechconf.com/gtc/2016/presentation/s6846_william_kramer-national-center-for-supercomputing.pdf
 ## https://www.csc.fi/documents/10180/339602/CSC_statistics_2017.pdf
 
-
+## [Linear Solver Challenges Linear Solver Challenges in Large in Large-Scale Circuit Simulation](http://mumps.enseeiht.fr/doc/ud_2010/Thornquist_talk.pdf)
 
 •	GPU-Accelerated Sparse LU Factorization for Circuit Simulation with Performance Modeling
 •	Parallel power grid analysis using preconditioned GMRES solver on CPU-GPU platforms
