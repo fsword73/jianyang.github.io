@@ -49,3 +49,4 @@ NUMPS,  SPOOLES,  MA57,
 ##  [GPU编程之进击的优化系列三--基于GPU的稀疏直接求解器](https://blog.csdn.net/weixin_34318326/article/details/89832629)
 ## [NICSLU----Parallel Sparse Solver for Circuit Simulation](https://github.com/chenxm1986/nicslu)
 ## [SuiteSparse UMFPACK](https://github.com/PetterS/SuiteSparse/tree/master/UMFPACK)
+## [Matters Computation ideas algorithm source code](https://www.jjj.de/fxt/fxtbook.pdf)
