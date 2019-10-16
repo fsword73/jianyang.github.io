@@ -51,4 +51,5 @@ networks for denoising Monte Carlo renderings.](http://cvc.ucsb.edu/graphics/Pap
 # [Complex Fully Convolutional Neural Networks for MR Image Reconstruction](https://arxiv.org/abs/1807.03343)
 # [A Hybrid Frequency-domain/Image-domain Deep Network for Magnetic Resonance Image Reconstruction](https://github.com/rmsouza01/Hybrid-CS-Model-MRI)  [paper](https://arxiv.org/abs/1810.12473)
 # [Learning Deep CNN Denoiser Prior for Image Restoration](https://github.com/cszn/ircnn)
+# [Demosaicing](https://github.com/kunzmi/NNDemosaicAndDenoise)
 
