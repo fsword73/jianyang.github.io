@@ -51,4 +51,4 @@ NUMPS,  SPOOLES,  MA57,
 ## [SuiteSparse UMFPACK](https://github.com/PetterS/SuiteSparse/tree/master/UMFPACK)
 ## [Matters Computation ideas algorithm source code](https://www.jjj.de/fxt/fxtbook.pdf)
 ## [The suite sparese colletions](https://sparse.tamu.edu/)
-## [Direct Methods for Sprase Linear Systems]
+## [Direct Methods for Sprase Linear Systems, TImothy A Davis]
