@@ -53,4 +53,5 @@ networks for denoising Monte Carlo renderings.](http://cvc.ucsb.edu/graphics/Pap
 # [Learning Deep CNN Denoiser Prior for Image Restoration](https://github.com/cszn/ircnn)
 # [Demosaicing](https://github.com/kunzmi/NNDemosaicAndDenoise)
 # [Deep Image Prior](https://github.com/DmitryUlyanov/deep-image-prior)
+# [Deep Restoration of Vintage Photographs From Scanned Halftone Prints](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Deep_Restoration_of_Vintage_Photographs_From_Scanned_Halftone_Prints_ICCV_2019_paper.pdf)
 
