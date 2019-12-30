@@ -1,2 +1,4 @@
 # [ray tracing in one week](https://github.com/RayTracing/raytracing.github.io)
 # [Modern Hardware Margins: CPUs, GPUs, FPGAs, Leng Jingwen](https://edge.seas.harvard.edu/files/edge/files/iolts-2019-v2.pdf)
+# [Efficency GPU  ray tracing](http://jcgt.org/published/0003/04/04/)
+# [Screen Space Glossy Reflections ](http://roar11.com/2015/07/screen-space-glossy-reflections/)
