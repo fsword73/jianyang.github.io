@@ -2,3 +2,4 @@
 # [Modern Hardware Margins: CPUs, GPUs, FPGAs, Leng Jingwen](https://edge.seas.harvard.edu/files/edge/files/iolts-2019-v2.pdf)
 # [Efficency GPU  ray tracing](http://jcgt.org/published/0003/04/04/)
 # [Screen Space Glossy Reflections ](http://roar11.com/2015/07/screen-space-glossy-reflections/)
+# [Fast Global Illumination Approximations on Deep G-Buffers]
