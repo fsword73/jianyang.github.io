@@ -3,3 +3,7 @@
 # [Efficency GPU  ray tracing](http://jcgt.org/published/0003/04/04/)
 # [Screen Space Glossy Reflections ](http://roar11.com/2015/07/screen-space-glossy-reflections/)
 # [Fast Global Illumination Approximations on Deep G-Buffers]
+# [screen space reflection-live demo](https://github.com/abiro/screen-space-reflections)
+# [Unity](https://developer.unigine.com/en/docs/future/start/?rlang=cpp)
+# [Unreal](https://docs.unrealengine.com/en-US/Engine/Rendering/index.html)
+
