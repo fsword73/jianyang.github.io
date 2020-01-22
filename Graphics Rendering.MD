@@ -9,3 +9,5 @@
 # [Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://arxiv.org/abs/1804.06826) 
 # [Learn how to create a 3D Physics Engine](https://sonarlearning.co.uk/coursepage.php?topic=desktop&course=ext-bb-3d-physics-engine)
 # [Bullet3](https://github.com/bulletphysics/bullet3)
+# [Mara2017Denoise for Ray-tracing](https://casual-effects.com/research/Mara2017Denoise/Mara2017Denoise.pdf)
+# [nvidia denoise](https://cg.ivd.kit.edu/publications/2017/svgf/svgf_preprint.pdf)
