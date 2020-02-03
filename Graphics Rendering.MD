@@ -11,3 +11,6 @@
 # [Bullet3](https://github.com/bulletphysics/bullet3)
 # [Mara2017Denoise for Ray-tracing](https://casual-effects.com/research/Mara2017Denoise/Mara2017Denoise.pdf)
 # [nvidia denoise](https://cg.ivd.kit.edu/publications/2017/svgf/svgf_preprint.pdf)
+
+# Apple Metal:
+## 96 Buffers, 96 Texture, 16 texture samplers
