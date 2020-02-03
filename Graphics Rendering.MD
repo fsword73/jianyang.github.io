@@ -10,7 +10,9 @@
 # [Learn how to create a 3D Physics Engine](https://sonarlearning.co.uk/coursepage.php?topic=desktop&course=ext-bb-3d-physics-engine)
 # [Bullet3](https://github.com/bulletphysics/bullet3)
 # [Mara2017Denoise for Ray-tracing](https://casual-effects.com/research/Mara2017Denoise/Mara2017Denoise.pdf)
-# [nvidia denoise](https://cg.ivd.kit.edu/publications/2017/svgf/svgf_preprint.pdf)
+## titan-x  1280x720  150ms
+# [nvidia denoise](https://cg.ivd.kit.edu/publications/2017/svgf/svgf_preprint.pdf)  
+## titan-x 1280x720 -- 4.1ms 
 
 # Apple Metal:
 ## 96 Buffers, 96 Texture, 16 texture samplers
