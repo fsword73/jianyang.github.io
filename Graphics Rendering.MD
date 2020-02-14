@@ -16,3 +16,7 @@
 
 # Apple Metal:
 ## 96 Buffers, 96 Texture, 16 texture samplers
+
+
+# [Nvidia Z Functions](http://developer.download.nvidia.com/presentations/2008/GDC/GDC08-D3DDay-Performance.pdf)
+# [Early-Z， HIZ usage](https://www.bbsmax.com/A/kPzOgBAezx/)
