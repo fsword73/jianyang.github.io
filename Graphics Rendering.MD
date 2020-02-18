@@ -25,5 +25,6 @@
 ## [Physical Based Rendering](https://github.com/Nadrin/Quartz)
 ## [AABB ](https://github.com/DerRM/VulkanRaytracingProceduralGeometry)
 ## [Hybrid Raytracing](https://github.com/Max1412/vgraphics)
+## [CNN power estimaiton](https://research.nvidia.com/sites/default/files/pubs/2019-06_PRIMAL%3A-Power-Inference//24_1_Zhou_PRIMAL.pdf)
 
 # [Machine Learning for IC Design](https://gogul.dev/hardware/research-papers-vlsi-ml)
