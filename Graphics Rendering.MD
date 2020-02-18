@@ -25,3 +25,5 @@
 ## [Physical Based Rendering](https://github.com/Nadrin/Quartz)
 ## [AABB ](https://github.com/DerRM/VulkanRaytracingProceduralGeometry)
 ## [Hybrid Raytracing](https://github.com/Max1412/vgraphics)
+
+# [Machine Learning for IC Design](https://gogul.dev/hardware/research-papers-vlsi-ml)
