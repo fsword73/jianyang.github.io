@@ -1,0 +1,1 @@
+# [Robust Power Estimation and Simultaneous Switching Noise Prediction Methods Using Machine Learnin](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9661-nvidia-nsight-graphics-getting-the-most-from-your-vulkan-applications.pdf)
