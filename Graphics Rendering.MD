@@ -28,3 +28,6 @@
 ## [CNN power estimaiton](https://research.nvidia.com/sites/default/files/pubs/2019-06_PRIMAL%3A-Power-Inference//24_1_Zhou_PRIMAL.pdf)
 
 # [Machine Learning for IC Design](https://gogul.dev/hardware/research-papers-vlsi-ml)
+
+# Qualcomm
+## https://github.com/torvalds/linux/tree/master/drivers/gpu/drm/msm/adreno
