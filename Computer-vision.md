@@ -45,4 +45,4 @@ The authors of the top methods in each category will be invited to submit papers
 
 
 ##  [Basic Gaussian Filter](https://github.com/Bokjan/LabDIP/blob/master/OpenCL/gaussian_filter.cl)
-    
+##  [OpenCV](https://github.com/opencv/opencv/tree/master/modules/dnn/src/opencl)
