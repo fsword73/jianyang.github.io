@@ -42,3 +42,7 @@ NTIRE 2018 has the following associated challenges:
     the spectral reconstruction from RGB images challenge
 
 The authors of the top methods in each category will be invited to submit papers to NTIRE 2018 workshop.
+
+
+##  [Basic Gaussian Filter](https://github.com/Bokjan/LabDIP/blob/master/OpenCL/gaussian_filter.cl)
+    
