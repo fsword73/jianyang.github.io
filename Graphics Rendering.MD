@@ -31,3 +31,4 @@
 
 # Qualcomm
 ## https://github.com/torvalds/linux/tree/master/drivers/gpu/drm/msm/adreno
+## [Apple Assembl?](https://stackoverflow.com/questions/49810845/metal-shading-language-ir-format)
