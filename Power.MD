@@ -6,3 +6,4 @@
 ### Split into 2 parts: Computer Shader Based & Graphics Based 
 ### Single Port
 ### Lower Voltage/Freuency : Half Frequency
+### Clock Gating most part of access
