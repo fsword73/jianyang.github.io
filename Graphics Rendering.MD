@@ -35,3 +35,4 @@
 ## [PowerVR ISA](https://github.com/powervr-graphics/Native_SDK/blob/master/docs/Architecture%20Guides/PowerVR%20Instruction%20Set%20Reference.pdf)
 ## [SVGF :Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination ](https://cg.ivd.kit.edu/publications/2017/svgf/svgf_preprint.pdf)
 ## [CUDA SVGF](https://github.com/ZheyuanXie/CUDA-Path-Tracer-Denoising)
+## [basemark-gpu](https://www.basemark.com/benchmarks/basemark-gpu/)
