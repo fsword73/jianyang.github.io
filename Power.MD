@@ -7,3 +7,31 @@
 ### Single Port
 ### Lower Voltage/Freuency : Half Frequency
 ### Clock Gating most part of access
+
+POWER = V * V * F * A * C
+
+V == PROCESS, DESIGN,  LIB  VOLTAGE DROP
+A == THREADS, CULL, INST, RAM(REG, CACHE, CONST, I, D)
+C == LIB, DESIGN, PD, BEST FIT,
+CLOCK TREE
+
+DETECT CLOCK TREE Vs Peak PoweR
+ACTIVE THREADS = LOCALID&MASK == MASK2 
+
+ADDRESS = GID + LOCAL_ADRESS + i & MASK3 == 0
+SHARED MEMORY ==  [ACTIVE THREADS + i]]  == DATA
+only 1/64 Threads active. 
+It almost == DECODE + CLOCK TREE
+
+INST DECODE POWER = MASK ==0; 
+SAME CODE, MASK all to ZERO 
+
+IF(LCOALID & MASK5)
+  output[gid] = local_data[lid];
+
+
+CPU == PREDICTION, ADDRESSER LOAD/WRITE, INTEGER.FLOAT, SIMD, REG(RAM)
+
+
+
+
