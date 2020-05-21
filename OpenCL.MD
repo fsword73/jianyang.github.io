@@ -29,3 +29,36 @@ __kernel void OpenCL_VGPR_read_write(__global int * src, uint mask, int loop, __
 			vstore16(data2, 0, dest + gid );
 		}
 }
+
+
+
+/* Created with CodeXL */
+
+//Mask0 ==FF;
+//Mask1 == 00;
+//mask2 == 00
+//workgroupsize==256
+__kernel void OpenCL_1thread_only(__global int * src, __global int *dest, int loop, int mask0, int mask1, int mask2)
+{
+		__local int ldata[1024];
+		int local_id = get_local_id(0);
+		int gid0 =get_global_id(0);
+		int gid = gid0 & mask1;
+		
+		
+		for(int i=0; i < 1024; i+=256){
+				ldata[local_id+i] = 0;
+		}
+		
+		for(int i= 0; i < loop; i++){		
+			 if(( i&mask0) == local_id) {
+				 ldata[local_id] += src[gid + (i&mask1)];
+			 }					 
+		}	
+		
+		if(mask2 & local_id){
+			dest[gid0] = ldata[local_id];	
+		}
+		
+	
+}
