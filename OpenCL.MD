@@ -63,7 +63,11 @@ int main(int argc, char* argv[])
 	int i;
 	for (i = 0; i < n; i++)
 	{
-		h_a[i] = 0;
+		//h_a[i] = 0;
+		if (i & 1)
+			h_a[i] = 0x5A5A5A5A;
+		else
+			h_a[i] = 0xA5A5A5A5;
 		h_b[i] = 0;
 	}
 
@@ -227,6 +231,7 @@ __kernel void test_load_vgpr(__global int * A, __global int *B, __global int *C,
 			int16 data = vload16(0, point); 			
 			data2 = max(data,data2);	
 			point += i & mask1;
+			point+=1;
 		}
 
 
