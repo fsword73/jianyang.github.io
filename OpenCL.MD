@@ -1,4 +1,4 @@
-#include "pch.h"
+
 #define PROGRAM_FILE "my_test_kernel.cl"
 #define KERNEL_FUNC "my_test_kernel"
 #define MAX_SOURCE_SIZE (0x100000)
@@ -114,8 +114,8 @@ int main(int argc, char* argv[])
 		fclose(kernelFile);
 	}
 	
-	printf("%s\n", kernelSource);
-	printf("%d\n", strlen(kernelSource));
+	//printf("%s\n", kernelSource);
+	//printf("%d\n", strlen(kernelSource));
 	program = clCreateProgramWithSource(context, 1,
 		(const char **)& kernelSource, &kernelSize, &err);
 
