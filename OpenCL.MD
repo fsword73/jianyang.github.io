@@ -211,4 +211,28 @@ __kernel void test_clock_tree(__global int * A, __global int *B, __global int *C
 
 
 
+// mask == 0;
+//~90+VGPR+27INST
+__kernel void test_load_vgpr(__global int * A, __global int *B, __global int *C,int loop, int mask0, int mask1, int mask2)
+{
+		uint gid = get_global_id(0) << 4;
+	  uint localid = get_global_id(0) ;
+	  uint localid2 = get_global_id(0) >> 10;
+	
+	
+	  int16 data2 = 0;		
+		__global int *point = A + localid2;
+		for(int i=0; i < 10000; i++)
+		{		
+			int16 data = vload16(0, point); 			
+			data2 = max(data,data2);	
+			point += i & mask1;
+		}
+
+
+		// uint bstore = data.s0 & data.s4 & data.s8 & data.b & data2.b ;				
+		if(localid & mask2 ) {		
+			vstore16(data2, 0, B + gid );
+		}
+}
 
