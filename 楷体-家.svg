@@ -70,9 +70,9 @@ C 38,102.8,42.2,93.2,45.2,84.9
 C 48.1,76.7,51.5,72.5,55.3,72.5
 " transform="translate(50,50)"  stroke="red" stroke-width="2"/>    <path fill="none" d="M 55.3,72.5
 C 60.9,72.5,66.2,82.1,71.2,101.1
-" transform="translate(50,50)"  stroke="blue" stroke-width="2"/>    <path fill="none" d="M 183.8,194.7
+" transform="translate(50,50)"  stroke="green" stroke-width="2"/>    <path fill="none" d="M 183.8,194.7
 C 175.8,195.5,165.9,195.9,154.3,195.9
-" transform="translate(50,50)"  stroke="green" stroke-width="2"/>    <path fill="none" d="M 154.3,195.9
+" transform="translate(50,50)"  stroke="red" stroke-width="2"/>    <path fill="none" d="M 154.3,195.9
 C 142.6,195.9,132.5,194.3,124.1,191.2
 " transform="translate(50,50)"  stroke="blue" stroke-width="2"/>    <path fill="none" d="M 124.1,191.2
 C 115.6,188,111.3,184.7,111.3,181.3
