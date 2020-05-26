@@ -36,3 +36,4 @@
 ## [SVGF :Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination ](https://cg.ivd.kit.edu/publications/2017/svgf/svgf_preprint.pdf)
 ## [CUDA SVGF](https://github.com/ZheyuanXie/CUDA-Path-Tracer-Denoising)
 ## [basemark-gpu](https://www.basemark.com/benchmarks/basemark-gpu/)
+## [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://research.nvidia.com/sites/default/files/pubs/2020-07_Spatiotemporal-reservoir-resampling/ReSTIR.pdf)
