@@ -63,12 +63,12 @@ int main(int argc, char* argv[])
 	int i;
 	for (i = 0; i < n; i++)
 	{
-		//h_a[i] = 0;
-		if (i & 1)
-			h_a[i] = 0x5A5A5A5A;
-		else
-			h_a[i] = 0xA5A5A5A5;
-		h_b[i] = 0;
+#define PI 3.14159265
+		float fval1 = sin(PI * i / 180);
+		float fval2 = cos(PI * i / 180);
+
+		h_a[i] = *(int*)(&fval1);
+		h_b[i] = *(int*)(&fval1);
 	}
 
 	size_t globalSize, localSize;
@@ -241,3 +241,33 @@ __kernel void test_load_vgpr(__global int * A, __global int *B, __global int *C,
 		}
 }
 
+__kernel void my_test_kernel(__global float * A, __global float *B, __global float *C,int loop, int mask0, int mask1, int mask2)
+{
+		uint gid = get_global_id(0) ;
+	  uint localid = get_global_id(0) ;
+	  uint localid2 = get_global_id(0) >> 10;
+	
+	
+	  float16 data = 0;		
+
+
+	{
+			float16 a = vload16( 0 ,  A + (gid&mask1));
+			float16 b = vload16( 0 ,  B + (gid&mask1));
+			float16 a1 = vload16( 0,  A  + (gid&mask1)+1);
+
+			data = a;			
+			for(int i=0; i < loop/8; i++)
+			{		
+				for(int j=0; j< 8; j++)
+				{
+					data = a * data + b;		
+					//data = max(max(a, data),b);	
+				}
+			}
+			
+			if(localid & mask2 ) {		
+				vstore16(data, 0, C + gid );
+			}			
+	}
+}
