@@ -5,6 +5,8 @@
 
 # [Pausible async FIFO](https://research.nvidia.com/sites/default/files/pubs/2015-05_A-Pausible-Bisynchronous/pausible.fifo_.async_.15.final_.pdf)
 
+# [DDR  voltage droop](https://www.maximintegrated.com/en/design/technical-documents/app-notes/9/993.html)
+ 
 # [Local shared Memory Power Reduction]
 ### Split into 2 parts: Computer Shader Based & Graphics Based 
 ### Single Port
