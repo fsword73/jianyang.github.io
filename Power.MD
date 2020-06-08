@@ -8,6 +8,9 @@
 # [DDR  voltage droop](https://www.maximintegrated.com/en/design/technical-documents/app-notes/9/993.html)
  
 # [Droop mitigation using critical-path sensors and an on-chip distributed power supply estimation engine in the z14™ enterprise processor]
+
+# [Ramon Bertran Monfort IBM architect](https://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=us-rbertra&t=1)
+
 # [Local shared Memory Power Reduction]
 ### Split into 2 parts: Computer Shader Based & Graphics Based 
 ### Single Port
