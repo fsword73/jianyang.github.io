@@ -11,6 +11,7 @@
 
 # [Ramon Bertran Monfort IBM architect](https://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=us-rbertra&t=1)
 
+# [ARM Floating Point 2019: Latency, Area, Power]
 # [Local shared Memory Power Reduction]
 ### Split into 2 parts: Computer Shader Based & Graphics Based 
 ### Single Port
