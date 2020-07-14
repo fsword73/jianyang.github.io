@@ -38,3 +38,6 @@
 ## [basemark-gpu](https://www.basemark.com/benchmarks/basemark-gpu/)
 ## [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://research.nvidia.com/sites/default/files/pubs/2020-07_Spatiotemporal-reservoir-resampling/ReSTIR.pdf)
 ## [Geek Bench ](https://www.geekbench.com/doc/geekbench5-compute-workloads.pdf)
+
+
+## [Float compression](https://github.com/powturbo/Turbo-Transpose)
