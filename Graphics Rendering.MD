@@ -41,3 +41,5 @@
 
 
 ## [Float compression](https://github.com/powturbo/Turbo-Transpose)
+
+## [Dissecting the NVidia Turing T4 GPU via Microbenchmarking](https://arxiv.org/pdf/1903.07486.pdf)
