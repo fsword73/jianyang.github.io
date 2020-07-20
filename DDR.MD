@@ -6,3 +6,4 @@
 ## [Test on GDDR6X RTX5700 --> 10-15watts/448 GB/s == 31 mW/s]
 ## [GDDR5, HBM Power](https://www.extremetech.com/wp-content/uploads/2016/02/NV-HB.png)
 ## [DDR power ](http://www.extremetech.com/computing/197720-beyond-ddr4-understand-the-differences-between-wide-io-hbm-and-hybrid-memory-cube)  
+## [Understanding the Interactions of Workloads and DRAM Types:A Comprehensive Experimental Study](https://arxiv.org/pdf/1902.07609.pdf)
