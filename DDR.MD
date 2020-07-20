@@ -4,3 +4,5 @@
 ## [predict DDR5 --> 40 mw/GB/s]
 ## [Mode B will have 25% power saving --> ModeA]
 ## [Test on GDDR6X RTX5700 --> 10-15watts/448 GB/s == 31 mW/s]
+## [GDDR5, HBM Power](https://www.extremetech.com/wp-content/uploads/2016/02/NV-HB.png)
+## [DDR power ](http://www.extremetech.com/computing/197720-beyond-ddr4-understand-the-differences-between-wide-io-hbm-and-hybrid-memory-cube)  
