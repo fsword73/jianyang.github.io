@@ -45,4 +45,5 @@
 ### [float  除法](https://zhuanlan.zhihu.com/p/43078619)
 ### [float  除法](http://www.docin.com/p-950123370.html)
 ###  [FGPA 数学函数 ](https://blog.csdn.net/qq_38352854/article/details/81050343)
+###  [float SIn/COS](https://blog.csdn.net/liyuanbhu/article/details/8458769)
 ## [Dissecting the NVidia Turing T4 GPU via Microbenchmarking](https://arxiv.org/pdf/1903.07486.pdf)
