@@ -41,5 +41,6 @@
 
 
 ## [Float compression](https://github.com/powturbo/Turbo-Transpose)
+### [ZFP, float compression](https://computing.llnl.gov/projects/floating-point-compression/zfp-versions)
 
 ## [Dissecting the NVidia Turing T4 GPU via Microbenchmarking](https://arxiv.org/pdf/1903.07486.pdf)
