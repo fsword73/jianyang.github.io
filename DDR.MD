@@ -12,3 +12,4 @@
 ## [镁光DDR4功耗计算工具](https://download.csdn.net/download/zhj1126278757/10817947?utm_medium=distribute.pc_relevant.none-task-download-BlogCommendFromMachineLearnPai2-3.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-download-BlogCommendFromMachineLearnPai2-3.edu_weight)
 ## [GDDR6, DDR5, LPDDR memory power](https://benchlife.info/ddr5-gddr5-lpddr5-lpddr4x-hbm3-08222016/)
 ## [SAMSUNG memory](https://www.slideshare.net/embeddedvision/memory-innovation-for-embedded-vision-systems-a-presentation-from-samsung-electronics)
+## [LPDDR5 package?](https://www.micron.com/products/dram/lpdram/lpddr5)
