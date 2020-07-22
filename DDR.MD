@@ -8,3 +8,5 @@
 ## [DDR power ](http://www.extremetech.com/computing/197720-beyond-ddr4-understand-the-differences-between-wide-io-hbm-and-hybrid-memory-cube)  
 ## [Understanding the Interactions of Workloads and DRAM Types:A Comprehensive Experimental Study](https://arxiv.org/pdf/1902.07609.pdf)
 ## [Micron DDR4 ](https://www.micron.com/products/dram/ddr4-sdram/part-catalog)
+## [sdram/ddr 功耗计算](https://blog.csdn.net/yd4330152763132/article/details/7475596)
+## [镁光DDR4功耗计算工具](https://download.csdn.net/download/zhj1126278757/10817947?utm_medium=distribute.pc_relevant.none-task-download-BlogCommendFromMachineLearnPai2-3.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-download-BlogCommendFromMachineLearnPai2-3.edu_weight)
