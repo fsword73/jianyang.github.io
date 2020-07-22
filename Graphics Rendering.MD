@@ -47,4 +47,5 @@
 ###  [FGPA 数学函数 ](https://blog.csdn.net/qq_38352854/article/details/81050343)
 ###  [float SIn/COS](https://blog.csdn.net/liyuanbhu/article/details/8458769)
 #### [sqrt](https://blog.csdn.net/weixin_30734435/article/details/96950645?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.edu_weight)
+### [CORDIC](https://baike.baidu.com/item/CORDIC/5189325)
 ## [Dissecting the NVidia Turing T4 GPU via Microbenchmarking](https://arxiv.org/pdf/1903.07486.pdf)
