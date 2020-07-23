@@ -49,4 +49,5 @@
 #### [sqrt](https://blog.csdn.net/weixin_30734435/article/details/96950645?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.edu_weight)
 ### [CORDIC](https://baike.baidu.com/item/CORDIC/5189325)
 ### [High-speed function approximation using a minimax quadratic interpolator]()
+### [High-order Taylor Series approximation for efficient computation of elmentary functions]
 ## [Dissecting the NVidia Turing T4 GPU via Microbenchmarking](https://arxiv.org/pdf/1903.07486.pdf)
