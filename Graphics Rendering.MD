@@ -50,4 +50,5 @@
 ### [CORDIC](https://baike.baidu.com/item/CORDIC/5189325)
 ### [High-speed function approximation using a minimax quadratic interpolator]()
 ### [High-order Taylor Series approximation for efficient computation of elmentary functions]
+### [An improved Micro Architect for function approximation using piecewise quadratic interpolation]
 ## [Dissecting the NVidia Turing T4 GPU via Microbenchmarking](https://arxiv.org/pdf/1903.07486.pdf)
