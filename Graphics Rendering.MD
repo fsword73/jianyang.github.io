@@ -41,6 +41,7 @@
 
 
 ## [Float compression](https://github.com/powturbo/Turbo-Transpose)
+### [FPC](https://github.com/spenczar/fpc) 
 ### [ZFP, float compression](https://computing.llnl.gov/projects/floating-point-compression/zfp-versions)
 ### [float  除法](https://zhuanlan.zhihu.com/p/43078619)
 ### [float  除法](http://www.docin.com/p-950123370.html)
