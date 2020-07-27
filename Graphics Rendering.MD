@@ -59,5 +59,6 @@
 ## [adding-vertex-compression-to-index-buffer-compression](https://conorstokes.github.io/2015/04/28/adding-vertex-compression-to-index-buffer-compression)
 ## [https://en.wikipedia.org/wiki/Entropy_encoding]
 ## [https://www.ics.uci.edu/~dan/pubs/DC-Sec3.html]
+## [https://en.wikipedia.org/wiki/Lossless_compression]
 
 
