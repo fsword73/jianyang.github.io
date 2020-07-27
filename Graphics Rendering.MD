@@ -60,5 +60,6 @@
 ## [https://en.wikipedia.org/wiki/Entropy_encoding]
 ## [https://www.ics.uci.edu/~dan/pubs/DC-Sec3.html]
 ## [https://en.wikipedia.org/wiki/Lossless_compression]
+## [High Throughput Compression of Floating Point on GPU](http://www.cs.fsu.edu/~asriniva/papers/PDGC12.pdf)
 
 
