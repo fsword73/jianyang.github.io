@@ -54,3 +54,6 @@
 ### [***An improved Micro Architect for function approximation using piecewise quadratic interpolation]
 ### [***A piecewise Cubic Polynomial Interpolation Algorithm For approximating Elementary Functions]
 ## [Dissecting the NVidia Turing T4 GPU via Microbenchmarking](https://arxiv.org/pdf/1903.07486.pdf)
+
+## [A Survey of Efﬁcient Representations for Independent Unit Vectors](http://jcgt.org/published/0003/02/01/paper.pdf)
+## [adding-vertex-compression-to-index-buffer-compression](https://conorstokes.github.io/2015/04/28/adding-vertex-compression-to-index-buffer-compression)
