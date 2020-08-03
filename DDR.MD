@@ -13,3 +13,4 @@
 ## [GDDR6, DDR5, LPDDR memory power](https://benchlife.info/ddr5-gddr5-lpddr5-lpddr4x-hbm3-08222016/)
 ## [SAMSUNG memory](https://www.slideshare.net/embeddedvision/memory-innovation-for-embedded-vision-systems-a-presentation-from-samsung-electronics)
 ## [LPDDR5 package?](https://www.micron.com/products/dram/lpdram/lpddr5)
+## physical mode VGPR index
