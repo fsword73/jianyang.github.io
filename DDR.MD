@@ -14,3 +14,5 @@
 ## [SAMSUNG memory](https://www.slideshare.net/embeddedvision/memory-innovation-for-embedded-vision-systems-a-presentation-from-samsung-electronics)
 ## [LPDDR5 package?](https://www.micron.com/products/dram/lpdram/lpddr5)
 ## physical mode VGPR index
+
+## [Fuzzy verification](https://github.com/ymherklotz/verismith)
