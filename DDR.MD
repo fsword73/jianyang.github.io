@@ -15,4 +15,4 @@
 ## [LPDDR5 package?](https://www.micron.com/products/dram/lpdram/lpddr5)
 ## physical mode VGPR index
 
-## [Fuzzy verification](https://github.com/ymherklotz/verismith)
+## [Verilog Fuzzer](https://github.com/ymherklotz/verismith)
