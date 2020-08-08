@@ -6,3 +6,4 @@
 ## [HPC best practice](http://www.hpcadvisorycouncil.com/best_practices.php)
 
 ## [Peaking University Software](http://hpc.pku.edu.cn/_book/guide/soft_env/module.html)
+## [coral-2 benchmarks](https://asc.llnl.gov/coral-2-benchmarks/)
