@@ -11,4 +11,5 @@
 ## [merged  SPMV nV 2017](https://github.com/dumerrill/merge-spmv)
 ## [中国石油大学-SpMV](https://folk.idi.ntnu.no/weifengl/)
 ## [Batched Sparse Matrix Multiplication for Accelerating Graph Convolutional Networks]
+## [Performance evaluation and analysis of sparse matrix and graph kernels on heterogeneous processors]
 ## [MMSparse: 2D partitioning of sparse matrix based on mathematical morpholog: 2020](jwx@bit.edu.cn)
