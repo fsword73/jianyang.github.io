@@ -7,3 +7,5 @@
 
 ## [Peaking University Software](http://hpc.pku.edu.cn/_book/guide/soft_env/module.html)
 ## [coral-2 benchmarks](https://asc.llnl.gov/coral-2-benchmarks/)
+## [SPMV  performance model](https://www.cs.uwyo.edu/~lwang7/papers/HPCS-2012.pdf)
+## [merged  SPMV nV 2017](https://github.com/dumerrill/merge-spmv)
