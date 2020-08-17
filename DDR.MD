@@ -16,3 +16,4 @@
 ## physical mode VGPR index
 
 ## [Verilog Fuzzer](https://github.com/ymherklotz/verismith)
+## [gddr6x](https://www.anandtech.com/show/15978/micron-spills-on-gddr6x-pam4-signaling-for-higher-rates-coming-to-nvidias-rtx-3090?utm_source=notification)
