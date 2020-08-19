@@ -13,3 +13,4 @@
 ## [Batched Sparse Matrix Multiplication for Accelerating Graph Convolutional Networks]
 ## [Performance evaluation and analysis of sparse matrix and graph kernels on heterogeneous processors]
 ## [MMSparse: 2D partitioning of sparse matrix based on mathematical morpholog: 2020](jwx@bit.edu.cn)
+## [A100 HPC](https://images.anandtech.com/doci/15992/202008180105341.jpg)
