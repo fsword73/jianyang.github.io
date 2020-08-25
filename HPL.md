@@ -17,3 +17,5 @@
 ## [exascale project](https://www.exascaleproject.org/)
 ## Kokkos, raja, OMPI-X
 ## [Exascale models runtimes](https://www.exascaleproject.org/research-group/programming-models-runtimes/)
+## [exscale Software stability](https://www.exascaleproject.org/wp-content/uploads/2020/01/IDEAS-ECP.Report.v1.0.pdf)
+## [exscale applicaitons ](https://www.exascaleproject.org/wp-content/uploads/2020/03/ECP_AD_Milestone-Early-Application-Results_v1.0_20200325_FINAL.pdf)
