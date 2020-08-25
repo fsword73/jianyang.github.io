@@ -14,3 +14,5 @@
 ## [Performance evaluation and analysis of sparse matrix and graph kernels on heterogeneous processors]
 ## [MMSparse: 2D partitioning of sparse matrix based on mathematical morpholog: 2020](jwx@bit.edu.cn)
 ## [A100 HPC](https://www.anandtech.com/show/15992/hot-chips-2020-live-blog-nvidia-a100-performance-500pm-pt)
+## [exascale project](https://www.exascaleproject.org/)
+## Kokkos, raja, OMPI-X
