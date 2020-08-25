@@ -16,3 +16,4 @@
 ## [A100 HPC](https://www.anandtech.com/show/15992/hot-chips-2020-live-blog-nvidia-a100-performance-500pm-pt)
 ## [exascale project](https://www.exascaleproject.org/)
 ## Kokkos, raja, OMPI-X
+## [Exascale models runtimes](https://www.exascaleproject.org/research-group/programming-models-runtimes/)
