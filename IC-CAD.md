@@ -12,4 +12,4 @@
 ## [Dr. CU router](https://github.com/cuhk-eda/dr-cu)
 
 ## [Magical EDA:Full PR flow by Deep Learning](https://github.com/magical-eda/MAGICAL)
-## [GeniusRoute]
+## [GeniusRoute](http://yibolin.com/publications/papers/ANALOG_ICCAD2019_Zhu.pdf)
