@@ -1,6 +1,7 @@
 # 1  [Crypto++ 5.6.0 Benchmarks](https://cryptopp.com/benchmarks.html)
 # 2  [OpenCL Cryptographics Libarry](https://martin.preisler.me/wp-content/uploads/2015/06/OpenCL-Cryptographic-Library.pdf)
-# 3 Ethernum uses GPU mining only: 
+# 3  [Ethernum Overclocking guide](https://zhuanlan.zhihu.com/p/352462987)
+# 5 Ethernum uses GPU mining only: 
 
 ## The OpenCL Kernel Shows following histogram of Insts ( total 8477 insts). V_XOR & V_AND is the key to performance. 
 
