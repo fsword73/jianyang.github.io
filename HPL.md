@@ -21,3 +21,4 @@
 ## [exscale applicaitons ](https://www.exascaleproject.org/wp-content/uploads/2020/03/ECP_AD_Milestone-Early-Application-Results_v1.0_20200325_FINAL.pdf)
 ## [HPC benchmark](https://wiki.openfoam.com/images/0/00/HPC_Bench.pdf)
 ## [NV AmgX](https://www.esi-group.com/sites/default/files/resource/other/1672/8th_OpenFOAM_Conference_NVIDIA_Posey.pdf)
+## [NV GPU HPC](https://images.nvidia.com/aem-dam/Solutions/Data-Center/tesla-product-literature/gpu-applications-catalog.pdf)
